@@ -1,0 +1,6 @@
+id=nokia_poweron
+name=Nokia 3 automatic power-on
+version=1.0
+versionCode=1
+author=Local device setup
+description=Arms a ten-second MediaTek power-on alarm when Android processes a user-requested shutdown.
